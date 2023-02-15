@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-15T12:49:02.453Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="kaV5tQJ60f8ZnqSVONNc" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-15T12:55:32.791Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="slu-65zc6sYtw4pst-_q" version="20.8.20" type="github">
   <diagram id="34KNsiJUDG14l4EXvXWt" name="Page-1">
     <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -57,34 +57,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xOB6LZGDoCXovr7lUBLy-20" value="Training Preparation" style="whiteSpace=wrap;html=1;fontSize=11;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;dashed=0;" parent="1" vertex="1">
-          <mxGeometry x="390" y="900" width="130" height="60" as="geometry" />
+          <mxGeometry x="360" y="900" width="130" height="60" as="geometry" />
         </mxCell>
         <object placeholders="1" c4Type="Relationship" c4Description="[Get/Update] Dataset/Data" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;" id="xOB6LZGDoCXovr7lUBLy-22">
           <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="xOB6LZGDoCXovr7lUBLy-20" target="xOB6LZGDoCXovr7lUBLy-6" edge="1">
-            <mxGeometry x="0.2286" y="10" width="240" relative="1" as="geometry">
+            <mxGeometry x="0.3448" y="10" width="240" relative="1" as="geometry">
               <mxPoint x="240" y="850" as="sourcePoint" />
               <mxPoint x="630" y="940" as="targetPoint" />
               <Array as="points">
-                <mxPoint x="455" y="780" />
+                <mxPoint x="425" y="780" />
                 <mxPoint x="345" y="780" />
               </Array>
               <mxPoint as="offset" />
             </mxGeometry>
           </mxCell>
         </object>
-        <mxCell id="xOB6LZGDoCXovr7lUBLy-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xOB6LZGDoCXovr7lUBLy-23" target="xOB6LZGDoCXovr7lUBLy-29" edge="1">
+        <mxCell id="txicOeGbvLBUT92HMWDl-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xOB6LZGDoCXovr7lUBLy-23" target="txicOeGbvLBUT92HMWDl-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xOB6LZGDoCXovr7lUBLy-23" value="Model Training" style="whiteSpace=wrap;html=1;fontSize=11;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;dashed=0;" parent="1" vertex="1">
-          <mxGeometry x="585" y="900" width="120" height="60" as="geometry" />
+          <mxGeometry x="555" y="900" width="120" height="60" as="geometry" />
         </mxCell>
         <object placeholders="1" c4Type="Relationship" c4Description="[Get/Update] Software Assets" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;" id="xOB6LZGDoCXovr7lUBLy-25">
           <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="xOB6LZGDoCXovr7lUBLy-20" target="xOB6LZGDoCXovr7lUBLy-8" edge="1">
-            <mxGeometry x="-0.0833" y="-10" width="240" relative="1" as="geometry">
+            <mxGeometry x="-0.1538" y="-10" width="240" relative="1" as="geometry">
               <mxPoint x="250" y="870" as="sourcePoint" />
               <mxPoint x="630" y="940" as="targetPoint" />
               <Array as="points">
-                <mxPoint x="455" y="810" />
+                <mxPoint x="425" y="810" />
                 <mxPoint x="605" y="810" />
               </Array>
               <mxPoint as="offset" />
@@ -93,27 +93,29 @@
         </object>
         <object placeholders="1" c4Type="Relationship" c4Description="Access the Hardware" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;" id="xOB6LZGDoCXovr7lUBLy-26">
           <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="xOB6LZGDoCXovr7lUBLy-20" target="xOB6LZGDoCXovr7lUBLy-10" edge="1">
-            <mxGeometry x="-0.1473" y="-10" width="240" relative="1" as="geometry">
+            <mxGeometry x="-0.6434" y="-10" width="240" relative="1" as="geometry">
               <mxPoint x="260" y="890" as="sourcePoint" />
               <mxPoint x="630" y="940" as="targetPoint" />
               <Array as="points">
-                <mxPoint x="455" y="840" />
+                <mxPoint x="425" y="840" />
                 <mxPoint x="860" y="840" />
               </Array>
               <mxPoint as="offset" />
             </mxGeometry>
           </mxCell>
         </object>
-        <mxCell id="xOB6LZGDoCXovr7lUBLy-29" value="Training End" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;dashed=0;" parent="1" vertex="1">
-          <mxGeometry x="780" y="900" width="120" height="60" as="geometry" />
+        <mxCell id="txicOeGbvLBUT92HMWDl-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="txicOeGbvLBUT92HMWDl-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="870" y="930" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <object placeholders="1" c4Type="Relationship" c4Description="Update Metadata &amp; Store the Model" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;" id="xOB6LZGDoCXovr7lUBLy-31">
-          <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.75;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="xOB6LZGDoCXovr7lUBLy-29" target="xOB6LZGDoCXovr7lUBLy-8" edge="1">
-            <mxGeometry x="-0.0909" y="-15" width="240" relative="1" as="geometry">
-              <mxPoint x="880" y="920" as="sourcePoint" />
+          <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.75;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="txicOeGbvLBUT92HMWDl-37" target="xOB6LZGDoCXovr7lUBLy-8" edge="1">
+            <mxGeometry x="0.0986" y="15" width="240" relative="1" as="geometry">
+              <mxPoint x="840" y="900" as="sourcePoint" />
               <mxPoint x="630" y="940" as="targetPoint" />
               <Array as="points">
-                <mxPoint x="840" y="805" />
+                <mxPoint x="810" y="805" />
                 <mxPoint x="665" y="805" />
               </Array>
               <mxPoint as="offset" />
@@ -141,11 +143,10 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <mxCell id="xOB6LZGDoCXovr7lUBLy-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xOB6LZGDoCXovr7lUBLy-60" target="xOB6LZGDoCXovr7lUBLy-20" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="xOB6LZGDoCXovr7lUBLy-60" value="Training Start" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;dashed=0;" parent="1" vertex="1">
-          <mxGeometry x="200" y="900" width="120" height="60" as="geometry" />
+        <mxCell id="xOB6LZGDoCXovr7lUBLy-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="txicOeGbvLBUT92HMWDl-39" target="xOB6LZGDoCXovr7lUBLy-20" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="930" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="xOB6LZGDoCXovr7lUBLy-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xOB6LZGDoCXovr7lUBLy-62" target="xOB6LZGDoCXovr7lUBLy-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -168,7 +169,7 @@
         <mxCell id="xOB6LZGDoCXovr7lUBLy-66" value="Deployed Model" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;dashed=0;" parent="1" vertex="1">
           <mxGeometry x="1915" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <object placeholders="1" c4Type="Relationship" c4Description="Prepares Deployment" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;" id="xOB6LZGDoCXovr7lUBLy-67">
+        <object placeholders="1" c4Type="Relationship" c4Description="Deployment Trigger" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;" id="xOB6LZGDoCXovr7lUBLy-67">
           <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.556;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="xOB6LZGDoCXovr7lUBLy-65" target="xOB6LZGDoCXovr7lUBLy-69" edge="1">
             <mxGeometry width="240" relative="1" as="geometry">
               <mxPoint x="1420" y="150" as="sourcePoint" />
@@ -248,10 +249,10 @@
             <mxGeometry x="1150" y="310" width="930" height="710" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="txicOeGbvLBUT92HMWDl-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="txicOeGbvLBUT92HMWDl-13" target="txicOeGbvLBUT92HMWDl-16" parent="1">
+        <mxCell id="txicOeGbvLBUT92HMWDl-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="txicOeGbvLBUT92HMWDl-13" target="txicOeGbvLBUT92HMWDl-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="txicOeGbvLBUT92HMWDl-13" value="Training Preparation" style="whiteSpace=wrap;html=1;fontSize=11;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;dashed=0;" vertex="1" parent="1">
+        <mxCell id="txicOeGbvLBUT92HMWDl-13" value="Deployment Preparation" style="whiteSpace=wrap;html=1;fontSize=11;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="1440" y="900" width="130" height="60" as="geometry" />
         </mxCell>
         <object placeholders="1" c4Type="Relationship" c4Description="[Get/Update] Dataset/Data" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;" id="txicOeGbvLBUT92HMWDl-14">
@@ -267,12 +268,6 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <mxCell id="txicOeGbvLBUT92HMWDl-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="txicOeGbvLBUT92HMWDl-16" target="txicOeGbvLBUT92HMWDl-19" parent="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="txicOeGbvLBUT92HMWDl-16" value="Model Training" style="whiteSpace=wrap;html=1;fontSize=11;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="1635" y="900" width="120" height="60" as="geometry" />
-        </mxCell>
         <object placeholders="1" c4Type="Relationship" c4Description="[Get/Update] Software Assets" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;" id="txicOeGbvLBUT92HMWDl-17">
           <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" source="txicOeGbvLBUT92HMWDl-13" target="txicOeGbvLBUT92HMWDl-7" parent="1">
             <mxGeometry x="-0.0833" y="-10" width="240" relative="1" as="geometry">
@@ -299,16 +294,13 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <mxCell id="txicOeGbvLBUT92HMWDl-19" value="Training End" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="1830" y="900" width="120" height="60" as="geometry" />
-        </mxCell>
         <object placeholders="1" c4Type="Relationship" c4Description="Update Metadata &amp; Store the Model" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;" id="txicOeGbvLBUT92HMWDl-20">
-          <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.75;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" source="txicOeGbvLBUT92HMWDl-19" target="txicOeGbvLBUT92HMWDl-7" parent="1">
-            <mxGeometry x="-0.0909" y="-15" width="240" relative="1" as="geometry">
-              <mxPoint x="1930" y="920" as="sourcePoint" />
+          <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.75;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" source="txicOeGbvLBUT92HMWDl-28" target="txicOeGbvLBUT92HMWDl-7" parent="1">
+            <mxGeometry x="-0.1507" y="-15" width="240" relative="1" as="geometry">
+              <mxPoint x="1890" y="900" as="sourcePoint" />
               <mxPoint x="1680" y="940" as="targetPoint" />
               <Array as="points">
-                <mxPoint x="1890" y="805" />
+                <mxPoint x="1870" y="805" />
                 <mxPoint x="1715" y="805" />
               </Array>
               <mxPoint as="offset" />
@@ -318,7 +310,7 @@
         <mxCell id="txicOeGbvLBUT92HMWDl-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="txicOeGbvLBUT92HMWDl-22" target="txicOeGbvLBUT92HMWDl-13" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="txicOeGbvLBUT92HMWDl-22" value="Training Start" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;dashed=0;" vertex="1" parent="1">
+        <mxCell id="txicOeGbvLBUT92HMWDl-22" value="Deployment Trigger" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="1250" y="900" width="120" height="60" as="geometry" />
         </mxCell>
         <object placeholders="1" c4Type="Datasets" c4Container="Database" c4Technology="Cloud/local Storage" c4Description="Datasets consisting useful/labelled data with Open Data Licence " label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Type%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Container%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="txicOeGbvLBUT92HMWDl-23">
@@ -336,6 +328,30 @@
             <mxGeometry x="1790" y="350" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
+        <mxCell id="txicOeGbvLBUT92HMWDl-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="txicOeGbvLBUT92HMWDl-26" target="txicOeGbvLBUT92HMWDl-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="txicOeGbvLBUT92HMWDl-26" value="Automatic Deployment Trigger&lt;br&gt;(CI/CD)" style="whiteSpace=wrap;html=1;fontSize=11;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="1630" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="txicOeGbvLBUT92HMWDl-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="txicOeGbvLBUT92HMWDl-28" target="txicOeGbvLBUT92HMWDl-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="txicOeGbvLBUT92HMWDl-28" value="Container Build &amp;amp; Push to Registry" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=11;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="1810" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="txicOeGbvLBUT92HMWDl-32" value="" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="1970" y="890" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="txicOeGbvLBUT92HMWDl-34" value="End" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="910" y="890" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="txicOeGbvLBUT92HMWDl-37" value="Training Completion" style="whiteSpace=wrap;html=1;fontSize=11;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="txicOeGbvLBUT92HMWDl-39" value="Start" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="890" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
